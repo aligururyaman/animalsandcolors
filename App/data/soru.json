@@ -1,0 +1,144 @@
+{
+  "sorular": [
+    {
+      "id": 1,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Kırmızı", "Mavi", "Sarı", "Yeşil"],
+      "correctAnswer": "Mavi",
+      "renk": "#0000FF"
+    },
+    {
+      "id": 2,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Mor", "Sarı", "Pembe", "Kırmızı"],
+      "correctAnswer": "Mor",
+      "renk": "#800080"
+    },
+    {
+      "id": 3,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Beyaz", "Siyah", "Gri", "Kahverengi"],
+      "correctAnswer": "Gri",
+      "renk": "#808080"
+    },
+    {
+      "id": 4,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Turuncu", "Sarı", "Kırmızı", "Pembe"],
+      "correctAnswer": "Turuncu",
+      "renk": "#FFA500"
+    },
+    {
+      "id": 5,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Yeşil", "Mavi", "Siyah", "Mor"],
+      "correctAnswer": "Yeşil",
+      "renk": "#008000"
+    },
+    {
+      "id": 6,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Siyah", "Mavi", "Kahverengi", "Beyaz"],
+      "correctAnswer": "Siyah",
+      "renk": "#000000"
+    },
+    {
+      "id": 7,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Kırmızı", "Siyah", "Mavi", "Gri"],
+      "correctAnswer": "Kırmızı",
+      "renk": "#FF0000"
+    },
+    {
+      "id": 8,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Beyaz", "Mavi", "Siyah", "Mor"],
+      "correctAnswer": "Beyaz",
+      "renk": "#FFFFFF"
+    },
+    {
+      "id": 9,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Sarı", "Mor", "Yeşil", "Kırmızı"],
+      "correctAnswer": "Sarı",
+      "renk": "#FFFF00"
+    },
+    {
+      "id": 10,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Kahverengi", "Sarı", "Kırmızı", "Turuncu"],
+      "correctAnswer": "Kahverengi",
+      "renk": "#A52A2A"
+    },
+    {
+      "id": 11,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Mor", "Pembe", "Beyaz", "Kırmızı"],
+      "correctAnswer": "Pembe",
+      "renk": "#FFC0CB"
+    },
+    {
+      "id": 12,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Mavi", "Mor", "Turuncu", "Yeşil"],
+      "correctAnswer": "Mavi",
+      "renk": "#0000FF"
+    },
+    {
+      "id": 13,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Kırmızı", "Siyah", "Mor", "Yeşil"],
+      "correctAnswer": "Kırmızı",
+      "renk": "#FF0000"
+    },
+    {
+      "id": 14,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Siyah", "Kırmızı", "Mavi", "Mor"],
+      "correctAnswer": "Siyah",
+      "renk": "#000000"
+    },
+    {
+      "id": 15,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Sarı", "Yeşil", "Turuncu", "Kırmızı"],
+      "correctAnswer": "Sarı",
+      "renk": "#FFFF00"
+    },
+    {
+      "id": 16,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Mor", "Beyaz", "Siyah", "Kırmızı"],
+      "correctAnswer": "Mor",
+      "renk": "#800080"
+    },
+    {
+      "id": 17,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Yeşil", "Siyah", "Mavi", "Kahverengi"],
+      "correctAnswer": "Yeşil",
+      "renk": "#008000"
+    },
+    {
+      "id": 18,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Kırmızı", "Beyaz", "Mavi", "Sarı"],
+      "correctAnswer": "Beyaz",
+      "renk": "#FFFFFF"
+    },
+    {
+      "id": 19,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Kırmızı", "Mor", "Mavi", "Sarı"],
+      "correctAnswer": "Mor",
+      "renk": "#800080"
+    },
+    {
+      "id": 20,
+      "question": "Yukarıdaki renk aşağıdakilerden hangisidir?",
+      "options": ["Kahverengi", "Mor", "Mavi", "Sarı"],
+      "correctAnswer": "Kahverengi",
+      "renk": "#A52A2A"
+    }
+  ]
+}

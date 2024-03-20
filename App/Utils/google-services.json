@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44269141294",
+    "project_id": "animalsandcolors-01",
+    "storage_bucket": "animalsandcolors-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44269141294:android:4687ed0661b427c0c88ebf",
+        "android_client_info": {
+          "package_name": "com.aligurur.animalsandcolors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPjPLwz6FfH1n7WS4qCQgW0YT-S0igYBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

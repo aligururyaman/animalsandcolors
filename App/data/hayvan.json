@@ -1,0 +1,152 @@
+{
+    "hayvanlar": [
+      {
+        "id": 1,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Aslan", "Kaplan", "Fil", "Zebra"],
+        "correctAnswer": "Aslan",
+        "hayvan": "../Images/GameImages/aslan.png"
+      },
+      {
+        "id": 2,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Gergedan", "Ayı", "Zürafa", "Maymun"],
+        "correctAnswer": "Zürafa",
+        "hayvan": "https://photos.google.com/photo/AF1QipOzp9LulbFXtQnxng3sMb_LfiThHqVaydBLyrTY"
+      },
+      {
+        "id": 3,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Köpekbalığı", "Yunus", "Fok", "Balina"],
+        "correctAnswer": "Yunus",
+        "hayvan": "../Images/GameImages/yunus.png"
+      },
+      {
+        "id": 4,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Kurt", "Tilki", "Köpek", "Çakal"],
+        "correctAnswer": "Tilki",
+        "hayvan": "../Images/GameImages/tilki.png"
+      },
+      {
+        "id": 5,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Kartal", "Atmaca", "Baykuş", "Leylek"],
+        "correctAnswer": "Baykuş",
+        "hayvan": "../Images/GameImages/baykus.png"
+      },
+      {
+        "id": 6,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Kobra", "Piton", "Solucan", "Tırtıl"],
+        "correctAnswer": "Piton",
+        "hayvan": "../Images/GameImages/piton.png"
+      },
+      {
+        "id": 7,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Panda", "Koala", "Ayı", "Porsuk"],
+        "correctAnswer": "Koala",
+        "hayvan": "../Images/GameImages/koala.png"
+      },
+      {
+        "id": 8,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Ceylan", "Geyik", "Koyun", "Sığır"],
+        "correctAnswer": "Ceylan",
+        "hayvan": "../Images/GameImages/geyik.png"
+      },
+      {
+        "id": 9,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Kenguru", "Tazmanya Canavarı", "Koala", "Kanguru"],
+        "correctAnswer": "Tazmanya Canavarı",
+        "hayvan": "../Images/GameImages/tazmanya.png"
+      },
+      {
+        "id": 10,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Timsah", "Krokodil", "Balık", "Yılan"],
+        "correctAnswer": "Timsah",
+        "hayvan": "../Images/GameImages/timsah.png"
+      },
+      {
+        "id": 11,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Kumru", "Güvercin", "Serçe", "Martı"],
+        "correctAnswer": "Martı",
+        "hayvan": "../Images/GameImages/marti.png"
+      },
+      {
+        "id": 12,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Köpek", "Kedi", "Kuş", "At"],
+        "correctAnswer": "Kuş",
+        "hayvan": "../Images/GameImages/kus.png"
+      },
+      {
+        "id": 13,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Çita", "Panter", "Leopar", "Jaguar"],
+        "correctAnswer": "Çita",
+        "hayvan": "../Images/GameImages/cita.png"
+      },
+      {
+        "id": 14,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Köpek", "Kedi", "Kuş", "At"],
+        "correctAnswer": "At",
+        "hayvan": "../Images/GameImages/at.png"
+      },
+      {
+        "id": 15,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Köpek", "Kedi", "Kuş", "At"],
+        "correctAnswer": "Köpek",
+        "hayvan": "../Images/GameImages/kopek.png"
+      },
+      {
+        "id": 16,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Köpekbalığı", "Hamsi", "Köpek", "Timsah"],
+        "correctAnswer": "Köpekbalığı",
+        "hayvan": "../Images/GameImages/kopekbalıgı.png"
+      },
+      {
+        "id": 17,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Kurt", "Tilki", "Çakal", "Köpek"],
+        "correctAnswer": "Kurt",
+        "hayvan": "../Images/GameImages/kurt.png"
+      },
+      {
+        "id": 18,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Sincap", "Yarasa", "Tatlısu Balığı", "Deniz Ayısı"],
+        "correctAnswer": "Sincap",
+        "hayvan": "../Images/GameImages/sincap.png"
+      },
+      {
+        "id": 19,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Leylek", "Baykuş", "Martı", "Kartal"],
+        "correctAnswer": "Leylek",
+        "hayvan": "../Images/GameImages/leylek.png"
+      },
+      {
+        "id": 20,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Yunus", "Fok", "Mors", "Balina"],
+        "correctAnswer": "Balina",
+        "hayvan": "../Images/GameImages/balina.png"
+      },
+      {
+        "id": 21,
+        "question": "Yukarıdaki hayvan aşağıdakilerden hangisidir?",
+        "options": ["Köpek", "Kedi", "Kuş", "At"],
+        "correctAnswer": "Kedi",
+        "hayvan": "../Images/GameImages/kedi.png"
+      }
+    ]
+  }
+  

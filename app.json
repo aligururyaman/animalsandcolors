@@ -2,7 +2,7 @@
   "expo": {
     "name": "animalsandcolors",
     "slug": "animalsandcolors",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -21,10 +21,20 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.aligurur.animalsandcolors",
+      "googleServicesFile": "./App/Utils/google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cd2d7f58-eb89-490e-ad43-0604e327e38b"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
